@@ -13,8 +13,15 @@ To discuss development with team members and the community, visit the [Developin
 
 The StealJS project is a collection of comamnd and client based JavaScript utilities that make building, packaging, sharing and consuming JavaScript applications easy.
 
+
+
 Contribute and learn more
 ================================
 
 For more information see [this blog post](http://neyeon.com/2011/01/stealing-javascript-jquery-ui/) and the
 (JavaScriptMVC forum entry)[http://forum.javascriptmvc.com/#topic/32525000000154003]
+
+
+
+
+The above link has gone dead, and I was unable to find the orginal repo. This is why this is posted here.
